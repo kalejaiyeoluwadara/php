@@ -58,8 +58,6 @@ if (!empty($getName) || !empty($getEmail)) {
         <button type="submit">Submit (POST)</button>
     </form>
 
-    <p style="margin-top: 24px; font-size: 0.9em; color: #666;">
-        <strong>Try GET:</strong> Add <code>?name=John&email=john@example.com</code> to the URL to pre-fill the form.
-    </p>
+   
 </body>
 </html>
